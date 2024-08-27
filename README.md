@@ -8,6 +8,9 @@ Project Structure
 The project is organized as follows:
 
 index.html: The main HTML file that links to all other dish-specific pages.
+
 dish1.html: HTML file for the first dish.
+
 dish2.html: HTML file for the second dish.
+
 dish3.html: HTML file for the third dish.
